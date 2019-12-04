@@ -1,0 +1,24 @@
+store-rooms:
+    - name: "melonStock"
+      vegetables:
+        - name: "Zaporski Kavuny"
+          type: "GOURDS"
+          expiration-length: 7
+        - name: "Lvivski dynky"
+          type: "GOURDS"
+          expiration-length: 7
+        - name: "American melon"
+          type: "GOURDS"
+          expiration-length: 7    
+      parties:
+        - number: 1312364
+          weight: 1.5
+          weight-unit: "KG"
+          price: 5.5
+          deliveryTime: "10-10-10 2019/10/12"
+          expirationTime: "11-11-11 2019/10/12" 
+          vegetable:
+            name: "Zaporski Kavuny"
+            type: "GOURDS"
+            expiration-length: 7
+         

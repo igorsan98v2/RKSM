@@ -1,0 +1,14 @@
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\lb5.exe
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\obj\Debug\netcoreapp3.0\lb5.csprojAssemblyReference.cache
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\obj\Debug\netcoreapp3.0\lb5.AssemblyInfoInputs.cache
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\obj\Debug\netcoreapp3.0\lb5.AssemblyInfo.cs
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\lb5.deps.json
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\lb5.runtimeconfig.json
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\lb5.runtimeconfig.dev.json
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\lb5.dll
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\lb5.pdb
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\YamlDotNet.dll
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\obj\Debug\netcoreapp3.0\lb5.csproj.CopyComplete
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\obj\Debug\netcoreapp3.0\lb5.dll
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\obj\Debug\netcoreapp3.0\lb5.pdb
+C:\Users\Игорь Юцык\source\repos\lb5\lb5\bin\Debug\netcoreapp3.0\user-data\store.yml
